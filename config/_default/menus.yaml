@@ -19,8 +19,8 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Resume
+    url: 'uploads/M_REHMAN_CV.pdf'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
