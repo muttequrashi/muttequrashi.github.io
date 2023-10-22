@@ -133,14 +133,25 @@ sections:
           url: https://app.theconstructsim.com/learning-paths/code-foundation-for-ros/
 
 
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://courses.edx.org/certificates/a586a82803f444ffa6fed29dc4239415
+          date_end: ''
+          date_start: '2021-04-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: edx
+          organization_url: https://www.edx.org
+          title: 'Technology Entrepreneurship: Lab to Market'
           url: ''
+
+
+        - certificate_url: https://www.linkedin.com/learning/certificates/0909b94f3357aeac061b6703b26de8b308a8007fbbf90ad4bf5439607189508a
+          date_end: ''
+          date_start: '2022-10-01'
+          description: ''
+          organization: LinkedIn
+          organization_url: https://www.linkedin.com/learning/
+          title: 'TMachine Learning with Python: Foundations'
+          url: ''
+
     design:
       columns: '2'
   - block: collection
