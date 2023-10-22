@@ -226,4 +226,30 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  ---
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+    
+      # Contact (add or remove contact options as necessary)
+      email: muttequreshi@gmail.com
+      phone: +33 07 83 85 3998
+      appointment_url: 'https://calendly.com/muttequreshi'
+      address:
+        city: Le Creusot
+        postcode: '71200'
+        country: France
+        country_code: FR
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id: 
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '2'
+---
