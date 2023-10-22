@@ -1,6 +1,6 @@
 ---
 title: Autonomous-Driving-Turtlebot3
-summary: An example of using the in-built project page.
+summary: Detect and follow lanes to complete a mission.
 tags:
   - ROS
   - Python
@@ -14,11 +14,7 @@ external_link: ''
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 url_code: 'https://github.com/muttequrashi/Autonomous-Driving-Turtlebot3'
 url_pdf: ''
 url_slides: ''
@@ -29,7 +25,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 **Project Goal:**
 The goal of the Autonomous-Driving Turtlebot3 project is to achieve autonomous driving for a ground differential robot by using perception-based techniques. The primary task is to detect and follow lanes to complete a mission. In this project, the robot needs to navigate through a circuit, which includes passing through a low-light tunnel.
