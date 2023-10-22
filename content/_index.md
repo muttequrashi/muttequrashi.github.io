@@ -61,7 +61,7 @@ sections:
         - title: Robotics & Control Engineer Thesis Intern
           company: ImViA
           company_url: 'https://imvia.u-bourgogne.fr/'
-          company_logo: imvia
+          company_logo: 
           location: Le Creusot, France
           date_start: '2023-01-01'
           date_end: '2023-06-30'
