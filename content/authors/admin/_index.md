@@ -11,7 +11,7 @@ last_name: Rehman
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍💻️
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,7 +52,6 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 80
       icon: python
       icon_pack: fab
     - name: Data Science
@@ -65,25 +64,136 @@ skills:
       percent: 40
       icon: database
       icon_pack: fas
-  - name: Hobbies
+    - name: C/C++
+      description: ''
+      percent: 80
+      icon: cplusplus
+      icon_pack: fab
+    - name: C#
+      description: ''
+      percent: 60
+      icon: csharp
+      icon_pack: fab
+    - name: Embedded C
+      description: ''
+      percent: 40
+      icon: microchip
+      icon_pack: fas
+    - name: Catkin
+      description: ''
+      percent: 40
+      icon: cat
+      icon_pack: fab
+    - name: CUDA
+      description: ''
+      percent: 60
+      icon: gpu
+      icon_pack: fas
+    - name: CMake
+      description: ''
+      percent: 40
+      icon: cmake
+      icon_pack: fab
+    - name: Matlab
+      description: ''
+      percent: 60
+      icon: matlab
+      icon_pack: fab
+    - name: Git
+      description: ''
+      percent: 100
+      icon: git
+      icon_pack: fab
+    - name: Scripting (Bash)
+      description: ''
+      percent: 80
+      icon: bash
+      icon_pack: fab
+    - name: Gstreamer
+      description: ''
+      percent: 60
+      icon: video
+      icon_pack: fas
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Linux
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: linux
+        icon_pack: fab
+      - name: Pm2
+        description: ''
+        percent: 60
+        icon: pm2
+        icon_pack: fab
+      - name: Tensorflow
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: tensorflow
+        icon_pack: fab
+      - name: Pytorch
+        description: ''
+        percent: 60
+        icon: pytorch
+        icon_pack: fab
+      - name: Docker
+        description: ''
+        percent: 80
+        icon: docker
+        icon_pack: fab
+      - name: OpenCV
+        description: ''
+        percent: 60
+        icon: opencv
+        icon_pack: fab
+      - name: Solidworks
+        description: ''
+        percent: 60
+        icon: solidworks
+        icon_pack: fab
+      - name: PyQT
+        description: ''
+        percent: 60
+        icon: pyqt
+        icon_pack: fab
+      - name: Tkinter
+        description: ''
+        percent: 60
+        icon: tkinter
+        icon_pack: fab
+      - name: ROS
+        description: ''
+        percent: 60
+        icon: ros
+        icon_pack: fab
+      - name: V‑Rep
+        description: ''
+        percent: 60
+        icon: v-rep
+        icon_pack: fab
+      - name: Gazebo
+        description: ''
+        percent: 60
+        icon: gazebo
+        icon_pack: fab
+      - name: Arduino
+        description: ''
+        percent: 60
+        icon: arduino
+        icon_pack: fab
+      - name: PLC
+        description: ''
+        percent: 60
+        icon: plc
+        icon_pack: fab
+      - name: ESP32
+        description: ''
+        percent: 60
+        icon: esp32
+        icon_pack: fab
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
