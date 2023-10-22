@@ -118,7 +118,7 @@ sections:
           date_start: '2023-02-25'
           description: ''
           organization: Kaggle
-          organization_url: https://www.kaggle.com/
+          organization_url: https://www.kaggle.com
           title: Python
           url: ''
 
@@ -128,7 +128,7 @@ sections:
           date_start: '2022-12-24'
           description: 
           organization: The Construct
-          organization_url: https://www.theconstructsim.com/
+          organization_url: https://www.theconstructsim.com
           title: Code Foundation for ROS
           url: https://app.theconstructsim.com/learning-paths/code-foundation-for-ros/
 
@@ -148,8 +148,8 @@ sections:
           date_start: '2022-10-01'
           description: ''
           organization: LinkedIn
-          organization_url: https://www.linkedin.com/learning/
-          title: 'TMachine Learning with Python: Foundations'
+          organization_url: https://www.linkedin.com
+          title: 'Machine Learning with Python: Foundations'
           url: ''
 
     design:
