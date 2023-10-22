@@ -203,7 +203,7 @@ sections:
       view: card
 
   - block: experience
-  content:
+    content:
     title: Achievements
     date_format: Jan 2006
     items:
