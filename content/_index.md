@@ -207,7 +207,7 @@ sections:
       title: Achievements
       date_format: Jan 2006
       items:
-        - title: 2019 Vice Chancellor’s Recognition Award
+        - title: Vice Chancellor’s Recognition Award
           company: Air University
           company_url: 'https://www.au.edu.pk/'
           company_logo:
