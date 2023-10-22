@@ -14,6 +14,10 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2019-05-13T00:00:00Z'
 doi: '10.1109/CEET1.2019.8711864'
@@ -32,7 +36,7 @@ publication_short:
 
 abstract: Proportional-Derivative-Integral (PID) controllers have been used for many kinds of systems in academia and industry. Multiple off-line approaches are available for PID tuning. However, physical systems which are subjected to continuous parametric changes and external disturbances require a robust PID controller with continuous auto-tuning. Quadcopter is the perfect example of such system which requires a robust control for stable flight operation. In this paper, a robust PID controller is presented for flight control of quadcopter. The proposed PID tuning algorithm continuously adjusts PID parameters which minimizes tracking error using artificial neural network consisting of a single hidden layer. Sigmoid function is used as activation function. Back-propagation algorithm is used to obtain optimized weights. Comparative analysis of three types of training algorithms (Bayesian regularization, Lavenberg-Marquardt and scaled conjugate gradient) against different number of neurons of hidden layer is performed to obtain minimized Mean Square Error (MSE). The effectiveness of proposed control scheme is witnessed for roll, pitch, yaw and altitude control of quadcopter.
 # Summary. An optional shortened abstract.
-summary:
+summary: ''
 
 tags: []
 
