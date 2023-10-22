@@ -103,7 +103,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Certificates'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -113,22 +113,26 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.kaggle.com/learn/certification/mutteurrehman/python
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-02-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Kaggle
+          organization_url: https://www.kaggle.com/
+          title: Python
           url: ''
-        - certificate_url: https://www.edx.org
+
+
+        - certificate_url: https://app.theconstructsim.com/accomplishments/verify/RIA4DE0911ABB7D/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2022-12-24'
+          description: 
+          organization: The Construct
+          organization_url: https://www.theconstructsim.com/
+          title: Code Foundation for ROS
+          url: https://app.theconstructsim.com/learning-paths/code-foundation-for-ros/
+
+
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
