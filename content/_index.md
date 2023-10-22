@@ -204,83 +204,84 @@ sections:
 
   - block: experience
     content:
-    title: Achievements
-    date_format: Jan 2006
-    items:
-      - title: 2019 Vice Chancellor’s Recognition Award
-        company: Air University
-        company_url: 'https://www.au.edu.pk/'
-        company_logo:
-        location: Islamabad, PK
-        date_start: '2019-03-01'
-        date_end: ''
-        description: Vice Chancellor’s Recognition Award among 1500 students.
-      
-      - title: 1st Position at Robo‑rumble Competition
-        company: SOFTEC 2019 – Fast University (NUCES)
-        company_url: 'https://www.nu.edu.pk/'
-        company_logo:
-        location: Lahore, PK
-        date_start: '2019-01-01'
-        date_end: ''
-        description: Achieved 1st Position at Robo‑rumble Competition.
-      
-      - title: 1st Position at Robowars Competition
-        company: AirTech’19 – Air University
-        company_url: 'https://www.au.edu.pk/'
-        company_logo:
-        location: Islamabad, PK
-        date_start: '2019-12-01'
-        date_end: ''
-        description: Achieved 1st Position at Robowars Competition.
-      
-      - title: Winners at Airtech 2018
-        company: Air University
-        company_url: 'https://www.au.edu.pk/'
-        company_logo:
-        location: Islamabad, PK
-        date_start: '2018-12-01'
-        date_end: ''
-        description: Achieved 1st Position at Robo wars competition.
-      
-      - title: Runners up at NERC 2018
-        company: EME Islamabad
-        company_url: 'https://ceme.nust.edu.pk/'
-        company_logo:
-        location: Islamabad, PK
-        date_start: '2018-11-01'
-        date_end: ''
-        description: 2nd position at Robo wars competition organized.
-      
-      - title: Winner at Olympiad Hitec 2017
-        company: Hitec University
-        company_url: 'https://www.hitecuni.edu.pk/'
-        company_logo:
-        location: Taxila, PK
-        date_start: '2017-05-01'
-        date_end: ''
-        description: 1st position in Sumo Robowar competition.
-      
+      title: Achievements
+      date_format: Jan 2006
+      items:
+        - title: 2019 Vice Chancellor’s Recognition Award
+          company: Air University
+          company_url: 'https://www.au.edu.pk/'
+          company_logo:
+          location: Islamabad, PK
+          date_start: '2019-03-01'
+          date_end: ''
+          description: Vice Chancellor’s Recognition Award among 1500 students.
+        
+        - title: 1st Position at Robo‑rumble Competition
+          company: SOFTEC 2019 – Fast University (NUCES)
+          company_url: 'https://www.nu.edu.pk/'
+          company_logo:
+          location: Lahore, PK
+          date_start: '2019-01-01'
+          date_end: ''
+          description: Achieved 1st Position at Robo‑rumble Competition.
+        
+        - title: 1st Position at Robowars Competition
+          company: AirTech’19 – Air University
+          company_url: 'https://www.au.edu.pk/'
+          company_logo:
+          location: Islamabad, PK
+          date_start: '2019-12-01'
+          date_end: ''
+          description: Achieved 1st Position at Robowars Competition.
+        
+        - title: Winners at Airtech 2018
+          company: Air University
+          company_url: 'https://www.au.edu.pk/'
+          company_logo:
+          location: Islamabad, PK
+          date_start: '2018-12-01'
+          date_end: ''
+          description: Achieved 1st Position at Robo wars competition.
+        
+        - title: Runners up at NERC 2018
+          company: EME Islamabad
+          company_url: 'https://ceme.nust.edu.pk/'
+          company_logo:
+          location: Islamabad, PK
+          date_start: '2018-11-01'
+          date_end: ''
+          description: 2nd position at Robo wars competition organized.
+        
+        - title: Winner at Olympiad Hitec 2017
+          company: Hitec University
+          company_url: 'https://www.hitecuni.edu.pk/'
+          company_logo:
+          location: Taxila, PK
+          date_start: '2017-05-01'
+          date_end: ''
+          description: 1st position in Sumo Robowar competition.
+        
 
 
-      - title: Winners at IYC 2017
-        company: IST Islamabad
-        company_url: 'https://www.ist.edu.pk/'
-        company_logo:
-        location: Islamabad, PK
-        date_start: '2017-02-01'
-        date_end: ''
-        description: 1st position at Aero modeling competition.
-      
-      - title: Runners up at IYC 2017
-        company: IST Islamabad
-        company_url: 'https://www.ist.edu.pk/'
-        company_logo:
-        location: Islamabad, PK
-        date_start: '2017-02-01'
-        date_end: ''
-        description: 2nd position at Air Crash Inquiries competition.
-      
+        - title: Winners at IYC 2017
+          company: IST Islamabad
+          company_url: 'https://www.ist.edu.pk/'
+          company_logo:
+          location: Islamabad, PK
+          date_start: '2017-02-01'
+          date_end: ''
+          description: 1st position at Aero modeling competition.
+        
+        - title: Runners up at IYC 2017
+          company: IST Islamabad
+          company_url: 'https://www.ist.edu.pk/'
+          company_logo:
+          location: Islamabad, PK
+          date_start: '2017-02-01'
+          date_end: ''
+          description: 2nd position at Air Crash Inquiries competition.
+    design:
+      columns: '2'
       
   
   
