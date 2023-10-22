@@ -48,7 +48,7 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming
     items:
     - name: Python
       description: ''
@@ -102,6 +102,14 @@ skills:
       description: ''
       icon: video
       icon_pack: fas
+    - name: PyQT
+      description: ''
+      icon: pyqt
+      icon_pack: fab
+    - name: Tkinter
+      description: ''
+      icon: tkinter
+      icon_pack: fab
   - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,14 +141,6 @@ skills:
       - name: Solidworks
         description: ''
         icon: solidworks
-        icon_pack: fab
-      - name: PyQT
-        description: ''
-        icon: pyqt
-        icon_pack: fab
-      - name: Tkinter
-        description: ''
-        icon: tkinter
         icon_pack: fab
       - name: ROS
         description: ''
