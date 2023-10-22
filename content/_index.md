@@ -201,6 +201,17 @@ sections:
     design:
       columns: '2'
       view: card
+
+  - block: collection
+    id: acheivement
+    content:
+      title: Acheiments
+      filters:
+        folders:
+          - acheivements
+    design:
+      columns: '2'
+      view: card
   
   
   - block: contact
