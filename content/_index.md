@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: exper
     content:
       title: Experience
       # Date format for experience
@@ -163,7 +164,6 @@ sections:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
@@ -196,6 +196,7 @@ sections:
       view: card
 
   - block: experience
+    id: achievements 
     content:
       title: Achievements
       date_format: Jan 2006
