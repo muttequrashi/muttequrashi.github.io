@@ -1,6 +1,6 @@
 ---
-title: Autonomous-Driving-Turtlebot3
-summary: Detect and follow lanes to complete a mission.
+title: Turtlebot3 Visual Servoing using ROS and Python
+summary: Camera based point A to B movment and parking.
 tags:
   - ROS
   - Python
@@ -15,7 +15,7 @@ external_link: ''
 #  focal_point: Smart
 
 
-url_code: 'https://github.com/muttequrashi/Autonomous-Driving-Turtlebot3'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -27,7 +27,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-# Turtlebot3 Visual Servoing using ROS and Python
 ![image info](assets/media/albums/demo/turtlebot3-burger.jpg)
 
 
