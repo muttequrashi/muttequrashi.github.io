@@ -58,47 +58,46 @@ sections:
       date_format: Jan 2006
      
       items:
-  - title: Robotics & Control Engineer Thesis Intern
-    company: ImViA
-    company_url: 'https://imvia.u-bourgogne.fr/'
-    company_logo: images/logo-imvia.png
-    location: Le Creusot, France
-    date_start: '2023-01-01'
-    date_end: '2023-06-30'
-    description: |2-
-      • Developed robust non‑linear control for quadcopters and wheeled robots, enabling precise tracking, disturbance resilience, and computer vision integration for real‑time autonomy.
-      • Tested on AR Drone 2.0, DJI Tello Drone, and TurtleBot3.
+        - title: Robotics & Control Engineer Thesis Intern
+          company: ImViA
+          company_url: 'https://imvia.u-bourgogne.fr/'
+          company_logo: images/logo-imvia.png
+          location: Le Creusot, France
+          date_start: '2023-01-01'
+          date_end: '2023-06-30'
+          description: |2-
+            • Developed robust non‑linear control for quadcopters and wheeled robots, enabling precise tracking, disturbance resilience, and computer vision integration for real‑time autonomy.
+            • Tested on AR Drone 2.0, DJI Tello Drone, and TurtleBot3.
 
-  - title: Robotics and Computer Vision Engineer
-    company: Prime Smart Systems,
-    company_url: ''
-    company_logo: ''
-    location: 'Remote'
-    date_start: '2021-07-01'
-    date_end: '2023-08-31'
-    description: |2-
-      • Developed and deployed computer vision systems using OpenCV, Python, and other tools to solve real‑world problems in various industries.
+        - title: Robotics and Computer Vision Engineer
+          company: Prime Smart Systems,
+          company_url: ''
+          company_logo: ''
+          location: 'Remote'
+          date_start: '2021-07-01'
+          date_end: '2023-08-31'
+          description: |2-
+            • Developed and deployed computer vision systems using OpenCV, Python, and other tools to solve real‑world problems in various industries.
 
-  - title: Robotics & Control Engineer Intern
-    company: Z‑PARADISE SAS
-    company_url: ''
-    company_logo: ''
-    location: Staffelfelden, France
-    date_start: '2022-06-01'
-    date_end: '2022-09-30'
-    description: |2-
-      • Pool Quality Sensor: Designed PCB and programmed the swimming pool filtration management system using various components (ESP32, sensors, & solar power) and implemented Z‑wave protocol.
+        - title: Robotics & Control Engineer Intern
+          company: Z‑PARADISE SAS
+          company_url: ''
+          company_logo: ''
+          location: Staffelfelden, France
+          date_start: '2022-06-01'
+          date_end: '2022-09-30'
+          description: |2-
+            • Pool Quality Sensor: Designed PCB and programmed the swimming pool filtration management system using various components (ESP32, sensors, & solar power) and implemented Z‑wave protocol.
 
-  - title: Robotic Software Engineer
-    company: Sky High Escape Rooms
-    company_url: ''
-    company_logo: ''
-    location: Remote
-    date_start: '2020-08-01'
-    date_end: '2020-10-31'
-    description: |2-
-      • Node‑RED escape room program for Raspberry Pi with multiple user inputs, camera feeds, and HDMI/audio output, designed with a specific sequencing algorithm.
-
+        - title: Robotic Software Engineer
+          company: Sky High Escape Rooms
+          company_url: ''
+          company_logo: ''
+          location: Remote
+          date_start: '2020-08-01'
+          date_end: '2020-10-31'
+          description: |2-
+            • Node‑RED escape room program for Raspberry Pi with multiple user inputs, camera feeds, and HDMI/audio output, designed with a specific sequencing algorithm.
     design:
       columns: '2'
   - block: accomplishments
