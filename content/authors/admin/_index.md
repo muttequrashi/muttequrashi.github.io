@@ -90,10 +90,7 @@ skills:
       description: ''
       icon: matlab
       icon_pack: fab
-    - name: Git
-      description: ''
-      icon: git
-      icon_pack: fab
+    
     - name: Scripting (Bash)
       description: ''
       icon: bash
@@ -133,6 +130,10 @@ skills:
       - name: Docker
         description: ''
         icon: docker
+        icon_pack: fab
+      - name: Git
+        description: ''
+        icon: git
         icon_pack: fab
       - name: OpenCV
         description: ''
