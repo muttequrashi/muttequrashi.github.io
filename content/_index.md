@@ -234,7 +234,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: muttequreshi@gmail.com
       phone: +33 07 83 85 3998
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/muttequreshi'
       address:
         city: Le Creusot
         postcode: '71200'
