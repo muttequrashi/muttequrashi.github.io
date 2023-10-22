@@ -119,5 +119,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am Mutte Ur Rehman, a Robotics and Computer Vision Engineer with a passion for solving real-world problems using technology. I have a Master's degree in Computer Vision and Robotics from the Université de Bourgogne in France.
+
+I have experience in developing and deploying computer vision systems using OpenCV, Python, and other tools. I have also worked on designing and building robotic systems, including a smart snowplow robot, a QR-driven parallel automation system, and a UVC light disinfectant robot.
