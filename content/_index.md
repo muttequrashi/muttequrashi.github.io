@@ -48,7 +48,7 @@ sections:
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
-      ![GIF](static/upload/ban.gif)
+      
     design:
       columns: '1'
   - block: experience
@@ -270,6 +270,13 @@ sections:
           description: 2nd position at Air Crash Inquiries competition.
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |- ![GIF](static/upload/ban.gif)
+    design:
+      columns: '1'
       
   
   
