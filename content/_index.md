@@ -279,7 +279,7 @@ sections:
       subtitle: ''
       text: |-       
         <div style="text-align:right; background-color: transparent; padding:10px;">
-        <img src="uploads/ban_new.gif" alt="GIF" style="max-width:100%; border: 2px solid #333;">
+        <img src="uploads/ban_new.gif" alt="GIF" >
         </div>
 
 
