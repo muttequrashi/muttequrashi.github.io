@@ -275,7 +275,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-       
-      ![GIF](static/upload/ban.gif)
+        ![GIF](/static/uploads/ban.gif) 
     design:
       columns: '1'
       
@@ -300,3 +300,6 @@ sections:
 
 
 ---
+
+
+[def]: static/upload/ban.gif
