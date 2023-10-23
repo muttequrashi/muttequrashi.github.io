@@ -48,10 +48,6 @@ sections:
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
-      text: |-       
-        <div style="text-align:right; background-color: transparent; padding:10px;">
-        <img src="uploads/ban.gif" alt="GIF" >
-        </div>
     design:
       columns: '1'
   - block: experience
