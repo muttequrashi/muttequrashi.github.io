@@ -48,6 +48,7 @@ sections:
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
+      ![GIF](static/upload/ban.gif)
     design:
       columns: '1'
   - block: experience
@@ -288,6 +289,6 @@ sections:
         country_code: FR
     design:
       columns: '2'
-![GIF](static/upload/ban.gif)
+
 
 ---
