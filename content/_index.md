@@ -36,6 +36,17 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-       
+       <div style="text-align: center; background-color: transparent; padding: 10px;">
+       <img src="uploads/ban.gif" alt="GIF" style="max-width: 100%; border: 2px solid #333; display: block; margin: 0 auto;">
+      </div>
+
+    design:
+      columns: '1'
   - block: about.biography
     id: about
     content:
@@ -270,18 +281,7 @@ sections:
           description: 2nd position at Air Crash Inquiries competition.
     design:
       columns: '2'
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-       
-        <div style="text-align:center; background-color: transparent; padding:10px;">
-        <img src="uploads/ban.gif" alt="GIF"  border: 2px solid #333;">
-        </div>
-        <img width="1000" height="250" src="uploads/ban.gif" alt="color picker" />
-
-    design:
-      columns: '1'
+  
       
   
   - block: contact
