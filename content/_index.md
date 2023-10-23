@@ -301,5 +301,4 @@ sections:
 
 ---
 
-
-[def]: static/upload/ban.gif
+![GIF](/static/uploads/ban.gif)
