@@ -288,6 +288,6 @@ sections:
         country_code: FR
     design:
       columns: '2'
-![GIF](/workspaces/muttequrashi.github.io/content/authors/admin/ban.gif)
+![GIF](static/upload/ban.gif)
 
 ---
