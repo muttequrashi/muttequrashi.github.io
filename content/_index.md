@@ -275,7 +275,9 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-       
-        ![GIF](/static/uploads/ban.gif) 
+        <div style="text-align:center; background-color:#f0f0f0; padding:20px;">
+        <img src="/static/uploads/ban.gif" alt="GIF" style="max-width:50%; border: 2px solid #333;">
+        </div>
     design:
       columns: '1'
       
@@ -301,4 +303,6 @@ sections:
 
 ---
 
-![GIF](/static/uploads/ban.gif)
+<div style="text-align:center; background-color:#f0f0f0; padding:20px;">
+    <img src="/static/uploads/ban.gif" alt="GIF" style="max-width:50%; border: 2px solid #333;">
+</div>
