@@ -278,6 +278,8 @@ sections:
         <div style="text-align:center; background-color:#f0f0f0; padding:20px;">
         <img src="/static/uploads/ban.gif" alt="GIF" style="max-width:50%; border: 2px solid #333;">
         </div>
+        <img width="1000" height="250" src="/static/uploads/ban.gif" alt="color picker" />
+
     design:
       columns: '1'
       
