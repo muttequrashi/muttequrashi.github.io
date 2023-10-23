@@ -281,17 +281,6 @@ sections:
     design:
       columns: '1'
       
-  - block: portfolio
-    content:
-      title: gal
-      text: |-       
-        <div style="text-align:center; background-color:#f0f0f0; padding:20px;">
-        <img src="/static/uploads/ban.gif" alt="GIF" style="max-width:50%; border: 2px solid #333;">
-        </div>
-    design:
-      columns: '1'
-      view: showcase
-      flip_alt_rows: false
   
   - block: contact
     id: contact
