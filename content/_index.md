@@ -274,9 +274,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: |- 
-        This is my biography.
-      
+      text: |-       
       ![GIF](static/upload/ban.gif)
     design:
       columns: '1'
