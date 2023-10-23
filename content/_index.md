@@ -272,11 +272,11 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: Gallery
+      title: ''
       subtitle: ''
       text: |-       
         <div style="text-align:center; background-color: transparent; padding:10px;">
-        <img src="uploads/ban.gif" alt="GIF" style="max-width:100%; border: 2px solid #333;">
+        <img src="uploads/ban.gif" alt="GIF"  border: 2px solid #333;">
         </div>
         <img width="1000" height="250" src="uploads/ban.gif" alt="color picker" />
 
