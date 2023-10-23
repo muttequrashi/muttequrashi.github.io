@@ -48,8 +48,6 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  -image:
-    link: ban.gif
   - name: Programming
     items: 
     - name: Python
