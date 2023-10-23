@@ -44,7 +44,6 @@ sections:
        <div style="text-align: center; background-color: transparent; padding: 10px;">
        <img src="uploads/ban.gif" alt="GIF" style="max-width: 100%; border: 2px solid #333; display: block; margin: 0 auto;">
       </div>
-
     design:
       columns: '1'
   - block: about.biography
