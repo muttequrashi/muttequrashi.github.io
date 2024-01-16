@@ -69,17 +69,16 @@ sections:
           description: |2-
             • Developed robust non‑linear control for quadcopters and wheeled robots, enabling precise tracking, disturbance resilience, and computer vision integration for real‑time autonomy.
             • Tested on AR Drone 2.0, DJI Tello Drone, and TurtleBot3.
-
-        - title: Robotics and Computer Vision Engineer
-          company: Prime Smart Systems,
-          company_url: ''
-          company_logo: ''
-          location: 'Remote'
-          date_start: '2021-07-01'
-          date_end: '2023-08-31'
-          description: |2-
-            • Developed and deployed computer vision systems using OpenCV, Python, and other tools to solve real‑world problems in various industries.
-
+      
+       # - title: Robotics and Computer Vision Engineer
+        # company_url: ''
+         # company_logo: ''
+          #location: 'Remote'
+          #date_start: '2021-07-01'
+          #date_end: '2023-08-31'
+          #description: |2-
+           # • Developed and deployed computer vision systems using OpenCV, Python, and other tools to solve real‑world problems in various industries.
+        
         - title: Robotics & Control Engineer Intern
           company: Z‑PARADISE SAS
           company_url: ''
