@@ -285,7 +285,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact France
     
       # Contact (add or remove contact options as necessary)
       email: muttequreshi@gmail.com
@@ -296,6 +296,18 @@ sections:
         postcode: '71200'
         country: France
         country_code: FR
+    design:
+      columns: '2'
+       title: Contact Australia
+    
+      # Contact (add or remove contact options as necessary)
+      phone: +61 0402 974 029
+      appointment_url: 'https://calendly.com/muttequreshi'
+      address:
+        city: Gold Coast
+        postcode: '4213'
+        country: Australia
+        country_code: AU
     design:
       columns: '2'
 
