@@ -310,7 +310,7 @@ sections:
         country: Australia
         country_code: AU
     design:
-      columns: '2'
+      columns: '3'
 
 
 ---
