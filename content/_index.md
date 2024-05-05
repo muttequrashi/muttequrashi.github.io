@@ -298,7 +298,8 @@ sections:
         country_code: FR
     design:
       columns: '2'
-       title: Contact Australia
+      content:
+      title: Contact Australia
     
       # Contact (add or remove contact options as necessary)
       phone: +61 0402 974 029
