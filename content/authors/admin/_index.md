@@ -1,4 +1,6 @@
 ---
+name: "Admin"
+avatar: "avatar.jpg"
 # Display name
 title: Mutte Ur REHMAN
 
