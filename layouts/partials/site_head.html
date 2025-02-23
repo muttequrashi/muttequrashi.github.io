@@ -1,6 +1,15 @@
+{{ $styles := slice }}  <!-- Initialize the variable as an empty slice -->
 
+{{ $bundle := resources.Get "css/bundle.css" }}
+{{ if $bundle }}{{ $styles = $styles | append $bundle }}{{ end }}
 
+{{ $custom := resources.Get "css/custom.css" }}
+{{ if $custom }}{{ $styles = $styles | append $custom }}{{ end }}
 
+{{ $style := resources.Get "css/style.css" }}
+{{ if $style }}{{ $styles = $styles | append $style }}{{ end }}
 
-
-<link rel="stylesheet" href="{{ $styles.Permalink }}">{{ $styles = $styles | resources.Concat "css/bundle.css" }}{{ $styles = $styles | append (resources.Get "css/custom.css") }}{{ $styles = $styles | append (resources.Get "css/style.css") }}{{ $styles := slice }}
+{{ if gt (len $styles) 0 }}
+  {{ $styles = $styles | resources.Concat "css/combined.css" }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}">
+{{ end }}

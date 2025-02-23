@@ -1,6 +1,6 @@
 debug = true
 
-[plugins.inputs]
+[[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
 
 [[plugins]]
