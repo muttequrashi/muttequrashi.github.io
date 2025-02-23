@@ -2,6 +2,7 @@
 .idea/
 
 # Hugo
+# Ensure to use Hugo extended version for SCSS/SASS support
 resources/
 public/
 jsconfig.json

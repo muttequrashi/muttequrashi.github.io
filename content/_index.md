@@ -54,31 +54,41 @@ sections:
     id: exper
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-     
       items:
+        - title: Embedded Systems Engineer
+          company: HyLight
+          company_url: ''
+          company_logo: ''
+          location: Le Plessis‑Pâté, France
+          date_start: '2024-06-01'
+          date_end: '2025-01-31'
+          description: |2-
+            • Leading the design and development of custom PCB circuit boards tailored for the unique requirements of hydrogen airships.
+            • Writing efficient and reliable code in Python to create and maintain test bench setups, ensuring optimal performance and integration of various components.
+            • Developing PX4 drivers to seamlessly integrate diverse sensors with the Pixhawk flight controller, enhancing functionality and safety of aerial inspection systems.
+            • Working closely with a multidisciplinary team to innovate and implement cutting‑edge technologies in aerial inspection.
+
+        - title: Robotics and Computer Vision Engineer
+          company: Prime Smart Systems
+          company_url: ''
+          company_logo: ''
+          location: Remote
+          date_start: '2021-07-01'
+          date_end: '2024-09-30'
+          description: |2-
+            • Developed and deployed computer vision systems using OpenCV, Python, and other tools to solve real‑world problems in various industries.
+
         - title: Robotics & Control Engineer Thesis Intern
           company: ImViA
           company_url: 'https://imvia.u-bourgogne.fr/'
-          company_logo: 
+          company_logo: ''
           location: Le Creusot, France
           date_start: '2023-01-01'
           date_end: '2023-06-30'
           description: |2-
             • Developed robust non‑linear control for quadcopters and wheeled robots, enabling precise tracking, disturbance resilience, and computer vision integration for real‑time autonomy.
             • Tested on AR Drone 2.0, DJI Tello Drone, and TurtleBot3.
-
-        - title: Robotics and Computer Vision Engineer
-          company: Prime Smart Systems,
-          company_url: ''
-          company_logo: ''
-          location: 'Remote'
-          date_start: '2021-07-01'
-          date_end: '2023-08-31'
-          description: |2-
-            • Developed and deployed computer vision systems using OpenCV, Python, and other tools to solve real‑world problems in various industries.
 
         - title: Robotics & Control Engineer Intern
           company: Z‑PARADISE SAS
@@ -101,6 +111,7 @@ sections:
             • Node‑RED escape room program for Raspberry Pi with multiple user inputs, camera feeds, and HDMI/audio output, designed with a specific sequencing algorithm.
     design:
       columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -286,7 +297,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact France
     
       # Contact (add or remove contact options as necessary)
       email: muttequreshi@gmail.com
@@ -299,6 +310,19 @@ sections:
         country_code: FR
     design:
       columns: '2'
+      content:
+      title: Contact Australia
+    
+      # Contact (add or remove contact options as necessary)
+      phone: +61 0402 974 029
+      appointment_url: 'https://calendly.com/muttequreshi'
+      address:
+        city: Gold Coast
+        postcode: '4213'
+        country: Australia
+        country_code: AU
+    design:
+      columns: '3'
 
 
 ---
