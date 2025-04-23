@@ -101,29 +101,54 @@ sections:
 
   - block: accomplishments
     content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certificates'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.kaggle.com/learn/certification/mutteurrehman/python
+          date_end: ''
           date_start: '2023-02-25'
+          description: ''
           organization: Kaggle
+          organization_url: https://www.kaggle.com
           title: Python
+          url: ''
+
 
         - certificate_url: https://app.theconstructsim.com/accomplishments/verify/RIA4DE0911ABB7D/
+          date_end: ''
           date_start: '2022-12-24'
+          description: 
           organization: The Construct
+          organization_url: https://www.theconstructsim.com
           title: Code Foundation for ROS
           url: https://app.theconstructsim.com/learning-paths/code-foundation-for-ros/
 
         - certificate_url: https://courses.edx.org/certificates/a586a82803f444ffa6fed29dc4239415
+          date_end: ''
           date_start: '2021-04-01'
-          organization: edX
-          title: Technology Entrepreneurship: Lab to Market
+          description: ''
+          organization: edx
+          organization_url: https://www.edx.org
+          title: 'Technology Entrepreneurship: Lab to Market'
+          url: ''
+
 
         - certificate_url: https://www.linkedin.com/learning/certificates/0909b94f3357aeac061b6703b26de8b308a8007fbbf90ad4bf5439607189508a
+          date_end: ''
           date_start: '2022-10-01'
+          description: ''
           organization: LinkedIn
-          title: Machine Learning with Python: Foundations
+          organization_url: https://www.linkedin.com
+          title: 'Machine Learning with Python: Foundations'
+          url: ''
 
   - block: contact
     id: contact
