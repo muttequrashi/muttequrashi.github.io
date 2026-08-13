@@ -1,202 +1,133 @@
 ---
-# Display name
-title: Mutte Ur REHMAN
-
-# Name pronunciation (optional)
+title: Mutte Ur Rehman
 name_pronunciation:
-
-# Full name (for SEO)
-first_name: Mutte Ur 
+first_name: Mutte Ur
 last_name: Rehman
-
-# Status emoji
 status:
   icon: 🧑‍💻️
-
-# Is this the primary user of the site?
 superuser: true
-
-# Role/position/tagline
-role: Computer Vision Engineer with Expertise in Robotics and UAVs
-
-# Organizations/Affiliations to show in About widget
+role: Independent AI Engineer · LLMs, RAG, Agents · Computer Vision on Edge
 organizations:
-  - name: 
-    url: 
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# Interests to show in About widget
+  - name: Independent
+    url: ''
+bio: I build production AI systems. LLM agents, RAG pipelines, and computer vision on the edge.
 interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Robotics
-  - Embedded Systems
-  - UAV
-
-# Education to show in About widget
+  - Large Language Models and Agents
+  - Retrieval-Augmented Generation
+  - Computer Vision on Edge Devices
+  - Embedded AI and IoT
+  - Robotics and Autonomous Systems
 education:
   courses:
     - course: MSc Computer Vision and Robotics (VIBOT)
-      institution: Universite de Bourgogne
+      institution: Université de Bourgogne, France
       year: 2023
     - course: BE Mechatronics Engineering
-      institution: Air University Islamabad
+      institution: Air University, Islamabad
       year: 2019
-
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Programming
-    items: 
-    - name: Python
-      description: ''
-      icon: python
-      icon_pack: fab
-    - name: Data Science
-      description: ''
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
-      description: ''
-      icon: database
-      icon_pack: fas
-    - name: C/C++
-      description: ''
-      icon: cplusplus
-      icon_pack: fab
-    - name: C#
-      description: ''
-      icon: csharp
-      icon_pack: fab
-    - name: Embedded C
-      description: ''
-      icon: microchip
-      icon_pack: fas
-    - name: Catkin
-      description: ''
-      icon: cat
-      icon_pack: fab
-    - name: CUDA
-      description: ''
-      icon: gpu
-      icon_pack: fas
-    - name: CMake
-      description: ''
-      icon: cmake
-      icon_pack: fab
-    - name: Matlab
-      description: ''
-      icon: matlab
-      icon_pack: fab
-    
-    - name: Scripting (Bash)
-      description: ''
-      icon: bash
-      icon_pack: fab
-    - name: Gstreamer
-      description: ''
-      icon: video
-      icon_pack: fas
-    - name: PyQT
-      description: ''
-      icon: pyqt
-      icon_pack: fab
-    - name: Tkinter
-      description: ''
-      icon: tkinter
-      icon_pack: fab
-  - name: Software
+  - name: AI and ML
+    color: '#4f46e5'
+    color_border: '#6366f1'
+    items:
+      - name: PyTorch
+        icon: pytorch
+        icon_pack: fab
+      - name: TensorFlow
+        icon: tensorflow
+        icon_pack: fab
+      - name: LangChain / LangGraph
+        icon: link
+        icon_pack: fas
+      - name: OpenAI / Anthropic
+        icon: robot
+        icon_pack: fas
+      - name: RAG + Vector DBs
+        icon: database
+        icon_pack: fas
+      - name: MCP
+        icon: plug
+        icon_pack: fas
+      - name: OpenCV
+        icon: eye
+        icon_pack: fas
+      - name: Diffusion (SD, SDXL, LoRA)
+        icon: magic
+        icon_pack: fas
+  - name: Edge and Embedded
+    color: '#059669'
+    color_border: '#10b981'
+    items:
+      - name: NVIDIA Jetson
+        icon: microchip
+        icon_pack: fas
+      - name: TensorRT
+        icon: bolt
+        icon_pack: fas
+      - name: OpenVINO
+        icon: brain
+        icon_pack: fas
+      - name: DeepStream
+        icon: video
+        icon_pack: fas
+      - name: ESP32
+        icon: microchip
+        icon_pack: fas
+      - name: LoRaWAN
+        icon: broadcast-tower
+        icon_pack: fas
+      - name: KiCad / PCB Design
+        icon: memory
+        icon_pack: fas
+      - name: PX4 / Pixhawk
+        icon: drone
+        icon_pack: fas
+  - name: Engineering
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Linux
-        description: ''
-        icon: linux
+      - name: Python
+        icon: python
         icon_pack: fab
-      - name: Pm2
-        description: ''
-        icon: pm2
+      - name: C / C++
+        icon: cplusplus
         icon_pack: fab
-      - name: Tensorflow
-        description: ''
-        icon: tensorflow
-        icon_pack: fab
-      - name: Pytorch
-        description: ''
-        icon: pytorch
-        icon_pack: fab
+      - name: FastAPI
+        icon: server
+        icon_pack: fas
       - name: Docker
-        description: ''
         icon: docker
         icon_pack: fab
-      - name: Git
-        description: ''
-        icon: git
+      - name: GitHub Actions
+        icon: github
         icon_pack: fab
-      - name: OpenCV
-        description: ''
-        icon: opencv
+      - name: AWS
+        icon: aws
         icon_pack: fab
-      - name: Solidworks
-        description: ''
-        icon: solidworks
+      - name: GCP
+        icon: google
         icon_pack: fab
-      - name: ROS
-        description: ''
-        icon: ros
+      - name: Linux
+        icon: linux
         icon_pack: fab
-      - name: V‑Rep
-        description: ''
-        icon: v-rep
-        icon_pack: fab
-      - name: Gazebo
-        description: ''
-        icon: gazebo
-        icon_pack: fab
-      - name: Arduino
-        description: ''
-        icon: arduino
-        icon_pack: fab
-      - name: PLC
-        description: ''
-        icon: plc
-        icon_pack: fab
-      - name: ESP32
-        description: ''
-        icon: esp32
-        icon_pack: fab
-
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:muttequreshi@gmail.com'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?hl=en&user=BA7c-hkAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/muttequrashi/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/mutte-ur-rahman/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+  - icon: google-scholar
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=en&user=BA7c-hkAAAAJ
   - icon: cv
     icon_pack: ai
-    link: uploads/M_REHMAN_CV.pdf
-
-# Highlight the author in author lists? (true/false)
+    link: uploads/Mutte_Ur_Rehman_CV.pdf
 highlight_name: true
 ---
 
-I am Mutte Ur Rehman, a Robotics and Computer Vision Engineer with a passion for solving real-world problems using technology. I have a Master's degree in Computer Vision and Robotics from the Université de Bourgogne in France.
+I am Mutte Ur Rehman, an Independent AI Engineer based in Paris. I build production AI systems end to end: LLM agents with tool calling, memory and multi-step planning; retrieval systems with citation-grounded generation; computer vision pipelines quantized for NVIDIA Jetson edge devices; and industrial IoT with custom PCBs and in-house firmware.
 
-I have experience in developing and deploying computer vision systems using OpenCV, Python, and other tools. I have also worked on designing and building robotic systems, including a smart snowplow robot, a QR-driven parallel automation system, and a UVC light disinfectant robot.
+I care more about the "will this survive production" question than the "does the notebook run" question. I own systems from data pipeline through deployment, and I am equally comfortable being the outside pair of eyes on someone else's architecture. Selected independent engagements: architecture reviews for on-prem LLM deployments, RAG builds, edge-AI deployments, and hardware audits.
+
+Peer-reviewed publication in computer vision and control (ICEET 2019). MSc VIBOT, Université de Bourgogne. BE Mechatronics, Air University Islamabad.
